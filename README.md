@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kevin Guzman</h1>
 <h3 align="center">A passionate student from Honduras</h3>
 
-<h1 align="center">Now listening 🎼🎶 </h1>
+<h3 align="left">Now listening 🎼🎶 </h3>
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/klaustrophobia)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31hnugsohmfbdbdrbm735u3bwkju)
 
 
 
