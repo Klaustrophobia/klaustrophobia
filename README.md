@@ -4,7 +4,7 @@
 <h3 align="left">Now listening 🎼🎶 </h3>
 
 
-![Now Playing](https://now-playing-profile-five.vercel.app/api/spotify?user=[31hnugsohmfbdbdrbm735u3bwkju]&type=cover&width=350)
+[!Now Playing](https://now-playing-profile-five.vercel.app/api/spotify?user=[31hnugsohmfbdbdrbm735u3bwkju]&type=cover&width=350)
 
 
 
