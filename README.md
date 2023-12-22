@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kevin Guzman</h1>
 <h3 align="center">A passionate student from Honduras</h3>
 
-<h3 align="left">Now listening 🎼🎶 </h3>
+<h3 align="left">Now listening 🎼🎶</h3>
+<p>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=31hnugsohmfbdbdrbm735u3bwkju&redirect=true"> 
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31hnugsohmfbdbdrbm735u3bwkju&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=b0ffad&bar_color_cover=true"/>
+</a>
+</p>
 
 - 🌱 I’m currently learning **Typescript, Mysql**
 
@@ -61,12 +66,18 @@
 
  
 <div>
+<h3 align="left">Statistics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=klaustrophobia&show_icons=true&locale=en&layout=compact" alt="klaustrophobia" width="220" height="110" /></p>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=klaustrophobia&show_icons=true&locale=en" alt="klaustrophobia" width="220" height="110" /></p>
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=klaustrophobia&show_icons=true&locale=en" alt="klaustrophobia" width="230" height="115" /></p>
+</div>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=klaustrophobia&" alt="klaustrophobia" width="220" height="110" /></p>
+<div>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=klaustrophobia&" alt="klaustrophobia" width="230" height="115" /></p>
+</div>
+
 <!--
 **Klaustrophobia/klaustrophobia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
