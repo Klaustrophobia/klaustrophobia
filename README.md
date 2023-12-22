@@ -3,15 +3,6 @@
 
 <h3 align="left">Now listening 🎼🎶 </h3>
 
-<<<<<<< HEAD
-=======
-
-[!Now Playing](https://now-playing-profile-five.vercel.app/api/spotify?user=[31hnugsohmfbdbdrbm735u3bwkju]&type=cover&width=350)
-
-
->>>>>>> 7887e80b00bdd4cb01864991ef20798ab19a94db
-
-
 - 🌱 I’m currently learning **Typescript, Mysql**
 
 <h3 align="left">Connect with me:</h3>
