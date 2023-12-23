@@ -11,7 +11,8 @@
 - 🌱 I’m currently learning **Typescript, Mysql**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/kjgz-is-kv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kevin Guzman" height="30" width="40"></a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kjgz-is-kv)
 
 
 
